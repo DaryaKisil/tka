@@ -1,0 +1,40 @@
+
+
+
+________________________________________DESCRIPTION_____________________________________
+
+In order to read the code open Serial_3 folder.
+
+If program itself is required, download ex and release folders.
+
+Also, you could learn how the program works through watching the video.
+
+The project itself is devoted to the products of TKA company, which focuses on producing different means of measuring instruments.
+Software was prodused for a special model of lux meter, which is used for measuring brightness in lux, fc or cd/m². 
+The measurement of light intensity with a lux meter is becoming increasingly important in the workplace due to safety concerns.
+
+******text from the video*******
+
+Good afternoon. Now we are going to look at a small software for TKA, a company that produces optical measuring instruments. 
+In particular, the software is written for the TKA-PKM(05) lux meter.
+To begin, in order to connect our instrument, press the Update button so that it is displayed among those available for connection.
+Then press the Connect button to connect to it and the graph starts to show data from the instrument's sensor. 
+To disconnect the instrument and connect a new one, press the Disconnect button and select another available comport. 
+There is also the Pause button, which stops the display. 
+Additionally, there is a zoom change in case of an abrupt change in the sensor data.
+
+********************************
+
+
+
+_______________________________________ОПИСАНИЕ__________________________________________
+
+Для чтения кода откройте папку Serial_3.
+
+Если требуется сама программа, загрузите папки ex и release.
+
+Также вы можете узнать, как работает программа, посмотрев видео.
+
+Сам проект посвящен продукции компании ООО "НТП"TKA", которая специализируется на производстве различных средств измерения под маркой ТКА.
+Программное обеспечение было разработано для специальной модели люксметра, который используется для измерения яркости в люксах. 
+Измерение уровня освещенности с помощью люксметра становится все более важным на рабочем месте из-за соображений безопасности.
